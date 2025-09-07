@@ -9,7 +9,7 @@ The course covers fundamental data structures and algorithms through practice pr
 - Comprehensive coverage of core **data structures and algorithms**: arrays, linked lists, stacks, queues, trees, graphs, sorting, searching, and more
 - Problems structured and solved in the sequence laid out by Striver’s A2Z DSA Sheet, ideal for revision and concept reinforcement.
 
-Strivers A2Z DSA course is available here [link](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)
+Strivers A2Z DSA course is available [here](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)
 
 ## Repository Structure
 - Solutions are implemented in Java programming language.
