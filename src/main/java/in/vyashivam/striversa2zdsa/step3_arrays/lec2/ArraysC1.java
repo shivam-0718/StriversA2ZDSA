@@ -8,7 +8,7 @@ import java.util.List;
 // Q: Finding all permutations of a given array
 public class ArraysC1 {
 
-    //Approach 1: Using Map
+    //Approach 1: Using extra List
     public List<List<Integer>> permute(int[] nums) {
         List<List<Integer>> ans = new ArrayList<>(); // Result list to store all permutations
         List<Integer> ds = new ArrayList<>(); // Temporary list (current permutation being built)
@@ -41,7 +41,7 @@ public class ArraysC1 {
         }
     }
 
-    //Approach 2: Swapping
+    //Approach 2: Swapping between 2 numbers in an array
     public List<List<Integer>> permutation(int[] nums) {
         List<List<Integer>> ans = new ArrayList<>();
         recursivePermutation(0, nums, ans); // start from index 0
