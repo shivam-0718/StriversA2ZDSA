@@ -44,7 +44,7 @@ Java Collections Framework provides a unified set of interfaces and classes for 
 
 The flow diagram of Java Collections Framework is given in the figure below:
 
-![Java Collections Framework](./lec3/Collection.png)
+![Java Collections Framework](./lec3/CollectionFramework.png)
 
 While Java provides built-in collection implementations, understanding two key aspects is essential:
 
