@@ -1,30 +1,18 @@
 # Arrays (Step 3)
 
-**Arrays** are one of the most **fundamental** data structures in programming.  
-They provide a way to store multiple elements of the same type (**homogenous elements**) in a contiguous memory block, enabling efficient access using indices.  
-Understanding arrays is essential as they form the base for solving many real-world problems and advanced data structures.
+**Arrays** are one of the most **fundamental** data structures in programming. They provide a way to store multiple elements of the same type (**homogenous elements**) in a contiguous memory block, enabling efficient access using indices. Understanding arrays is essential as they form the base for solving many real-world problems and advanced data structures. This section emphasizes on understanding and solving the variety of problems ranging from easy to challenging, helping to build strong problem-solving skills.
 
-This section emphasizes on understanding and solving the variety of problems ranging from easy to challenging, helping to build strong problem-solving skills.
+## 3.1. Easy
 
-### 3.1. Easy
+This section introduces **fundamental array problems** that are simple yet essential for building a strong base. It covers basic problems like finding the maximum, second maximum, checking if an array is sorted, removing duplicates from an array, moving zeroes to the end of the array, linear search, finding a number appearing once, etc. Towards the end, problems such as **left / right rotating an array by _K_ places**, **union and intersection of 2 arrays**, and **finding the longest subarray with given sum _K_ (using prefix sums)** were new to me. These problems helped me gain a deeper understanding of these concepts, adding more **depth and intuition** to my problem-solving skills.
 
-This section introduces **fundamental array problems** that are simple yet essential for building a strong base.  
-It covers basic problems like finding the maximum, second maximum, checking if an array is sorted, removing duplicates from an array, moving zeroes to the end of the array, linear search, finding a number appearing once, etc.  
-Towards the end, problems such as **left / right rotating an array by _K_ places**, **union and intersection of 2 arrays**, and **finding the longest subarray with given sum _K_ (using prefix sums)** were new to me. These problems helped me gain a deeper understanding of these concepts, adding more **depth and intuition** to my problem-solving skills.
+## 3.2. Medium
 
-### 3.2. Medium
+This section focuses on array problems that are **commonly asked in interviews**. It includes standard problems like **Two Sum**, **Dutch National Flag Algorithm**, **Moore's Majority Vote Algorithm**, **Kadane's Algorithm**, **Best Time to Buy and Sell Stock**, and **Count of Subarrays with Sum K**. Some problems such as **Next Permutation**, **Longest Consecutive Sequence**, **Set Matrix Zeroes**, **Rotate Matrix**, and **Spiral Matrix**, were new to me. Understanding their approaches was both **insightful and enjoyable**, as it strengthened my knowledge and logic.
 
-This section focuses on array problems that are **commonly asked in interviews**.  
-It includes standard problems like **Two Sum**, **Dutch National Flag Algorithm**, **Moore's Majority Vote Algorithm**, **Kadane's Algorithm**, **Best Time to Buy and Sell Stock**, and **Count of Subarrays with Sum K**.  
-Some problems such as **Next Permutation**, **Longest Consecutive Sequence**, **Set Matrix Zeroes**, **Rotate Matrix**, and **Spiral Matrix**, were new to me.  
-Understanding their approaches was both **insightful and enjoyable**, as it strengthened my knowledge and logic.
+## 3.3. Hard
 
-### 3.3. Hard
-
-This section deals with **medium to hard-level problems** that were initially tricky to understand. It took me a while to understand their approaches.  
-Problems like **Pascal’s Triangle**, **3-Sum**, **4-Sum**, **Merging Overlapping Sub-Intervals**, **Count Inversions**, and **Reverse Pairs** pushed me to move beyond brute-force approaches.  
-These problems trained me to **recognize patterns**, **analyze constraints**, and **derive efficient solutions**.  
-It was a rewarding experience tackling these questions.  
+This section deals with **medium to hard-level problems** that were initially tricky to understand. It took me a while to understand their approaches. Problems like **Pascal’s Triangle**, **3-Sum**, **4-Sum**, **Merging Overlapping Sub-Intervals**, **Count Inversions**, and **Reverse Pairs** pushed me to move beyond brute-force approaches. These problems trained me to **recognize patterns**, **analyze constraints**, and **derive efficient solutions**. It was a rewarding experience tackling these questions.  
 **Highly recommended!**
 
 ## Important Questions
